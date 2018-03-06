@@ -1,0 +1,6 @@
+/**
+ * Event Management Theme Options - Custom CSS
+ */
+
+input[type=text]{width:60%;}
+textarea{width:60%;height:100px;}
